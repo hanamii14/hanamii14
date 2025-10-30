@@ -12,6 +12,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postgres)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=igortfreitas&theme=buefy-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hanamii14&theme=buefy-dark)](https://git.io/streak-stats)
 
 ###
